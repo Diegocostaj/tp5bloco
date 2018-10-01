@@ -1,0 +1,2 @@
+[wordpress]
+192.168.166.133 ansible_ssh_user=root
